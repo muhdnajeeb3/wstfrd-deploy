@@ -1,4 +1,4 @@
-const express = require("express");
+import express from 'express'
 const adminRoutes = require("./routes/adminRoutes");
 const db = require("./config/db");
 const session = require("express-session");
