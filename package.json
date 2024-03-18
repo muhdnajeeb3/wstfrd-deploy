@@ -9,7 +9,7 @@
     "start": "node ./backend/server.js"
   },
   "engines": {
-    "node": ">=12.22.12"
+    "node": ">14.21.3"
   },
   "author": "",
   "license": "ISC",
