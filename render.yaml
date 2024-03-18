@@ -1,0 +1,5 @@
+buildCommand: npm install && npm run build
+startCommand: npm start
+env:
+  NODE_ENV: production
+  NODE_VERSION: 14.21.3
